@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://farhan:Batman786@rest-zkuig.mongodb.net/tavia?retryWrites=true&w=majority",
-  "jwtSecret": "apples&oranges34"
-}
